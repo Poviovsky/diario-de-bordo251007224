@@ -6,5 +6,6 @@
 - Minhas entradas
   - [Progresso 1](blog/2026-09-23-progresso1.md)
   - [Progresso 2](blog/2026-10-07-progresso2.md)
+  - [Progresso 3](blog/2026-10-28-progresso3.md)
 
 
